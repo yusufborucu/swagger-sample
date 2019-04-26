@@ -1,2 +1,2 @@
 # Swagger Sample
-Laravel'de Swagger ile Rest Api Dokümantasyonu örneği
+Laravel'de Swagger ile Rest Api dokümantasyonu örneği
